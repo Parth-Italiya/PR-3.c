@@ -1,3 +1,8 @@
+/*
+Enter a Number: 52
+The Sum of 5 and 2 is 7
+*/
+
 #include<stdio.h>
 
  main(){

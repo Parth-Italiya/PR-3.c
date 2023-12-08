@@ -1,3 +1,8 @@
+/*
+Enter the value of N: 777
+3
+*/
+
 #include<stdio.h>
 
  main(){

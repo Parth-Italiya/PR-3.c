@@ -1,5 +1,8 @@
-#include<stdio.h>
+/*
+a e i m q u y
+*/
 
+#include<stdio.h>
 
 void main(){
 	char alpha='a';
@@ -10,4 +13,3 @@ void main(){
 	}while(alpha<="z");
 
 }
-
